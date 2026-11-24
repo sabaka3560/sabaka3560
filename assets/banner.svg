@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Tanmay Bohra, full-stack engineer and consultant, Mumbai">
+<style>
+ .name{font:800 72px Syne, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;fill:#f0ede8;letter-spacing:-1.5px}
+ .sub{font:400 22px 'DM Mono', ui-monospace, 'SFMono-Regular', Consolas, monospace;fill:#b0aba4}
+ .rot{font:400 22px 'DM Mono', ui-monospace, 'SFMono-Regular', Consolas, monospace;fill:#c8ff57;opacity:0;animation:rot 10.5s infinite}
+ .lbl{font:500 15px 'DM Mono', ui-monospace, 'SFMono-Regular', Consolas, monospace;fill:#888888;letter-spacing:2px}
+ .dot{animation:pulse 2s ease-in-out infinite;transform-origin:1085px 64px}
+ .scan{animation:scan 7s linear infinite}
+ @keyframes rot{0%{opacity:0;transform:translateY(8px)}4.00%{opacity:1;transform:none}28.33%{opacity:1}33.33%,100%{opacity:0}}
+ @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(.7)}}
+ @keyframes scan{0%{transform:translateX(-300px)}100%{transform:translateX(1500px)}}
+ @media (prefers-reduced-motion:reduce){.rot,.dot,.scan{animation:none}.rot:first-of-type{opacity:1}}
+</style>
+<defs>
+ <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#232323" stroke-width="1"/></pattern>
+ <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#0e0e0e" stop-opacity=".2"/><stop offset=".55" stop-color="#0e0e0e" stop-opacity=".85"/><stop offset="1" stop-color="#0e0e0e"/></linearGradient>
+ <linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#c8ff57" stop-opacity="0"/><stop offset=".5" stop-color="#c8ff57" stop-opacity=".10"/><stop offset="1" stop-color="#c8ff57" stop-opacity="0"/></linearGradient>
+ <clipPath id="c"><rect width="1200" height="300" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+ <rect width="1200" height="300" fill="#0e0e0e"/>
+ <rect width="1200" height="300" fill="url(#g)"/>
+ <rect width="1200" height="300" fill="url(#fade)" transform="scale(-1,1) translate(-1200,0)"/>
+ <rect class="scan" x="0" y="0" width="260" height="300" fill="url(#beam)"/>
+ <text class="lbl" x="64" y="70">FULL-STACK ENGINEER &amp; CONSULTANT · MUMBAI</text>
+ <text class="name" x="60" y="146">Tanmay Bohra</text>
+ <text class="sub" x="64" y="186">I build</text>
+ <text class="rot" style="animation-delay:0.0s" x="64" y="214">agentic AI pipelines that cite their reasons</text><text class="rot" style="animation-delay:3.5s" x="64" y="214">Go &amp; TypeScript APIs built for load</text><text class="rot" style="animation-delay:7.0s" x="64" y="214">tools that remove manual work inside teams</text>
+ <rect x="64" y="246" width="56" height="4" rx="2" fill="#c8ff57"/>
+ <text class="lbl" x="136" y="252">tanmaybohra.com</text>
+ <circle class="dot" cx="1085" cy="64" r="7" fill="#c8ff57"/>
+ <text class="lbl" x="1070" y="70" text-anchor="end">AVAILABLE FOR WORK</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="299" rx="18" fill="none" stroke="#232323"/>
+</svg>
