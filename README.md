@@ -44,11 +44,11 @@ I build systems in **Go** and **TypeScript**, from high-concurrency APIs to agen
 ### Latest writing
 
 <!-- posts:start -->
-- [Zero Is a Result. Missing Data Is a Different Answer.](https://blogs.tanmaybohra.com/posts/missing-is-not-zero/)
-- [Your Weighted Pipeline Cannot Pay an Unweighted Payroll.](https://blogs.tanmaybohra.com/posts/pipeline-cash-scenarios/)
-- [Your Support Backlog Has Already Spent Part of Next Week.](https://blogs.tanmaybohra.com/posts/support-backlog-cost/)
-- [Britain Bought More Online. Your Channel Margin Still Needs Its Own Maths.](https://blogs.tanmaybohra.com/posts/retail-channel-margin/)
-- [DBS and Circle Promise Weekend Settlement. Who Runs the Treasury?](https://blogs.tanmaybohra.com/posts/dbs-weekend-treasury/)
+- [The Spreadsheet Still Calculates. Someone Replaced the Formula.](https://blogs.tanmaybohra.com/posts/spreadsheet-override-register/)
+- [Your Renewal Rate Needs Customers Who Actually Had a Choice.](https://blogs.tanmaybohra.com/posts/renewal-eligible-cohort/)
+- [Your Startup's Margin Includes a Founder Who Works for Free.](https://blogs.tanmaybohra.com/posts/founder-labour-replacement-cost/)
+- [Workday Reports Two Operating Margins. Read the Bridge Before Picking One.](https://blogs.tanmaybohra.com/posts/workday-adjusted-margin-bridge/)
+- [NTT DATA Is Building an AI Team. Buyers Should Budget for Learning, Too.](https://blogs.tanmaybohra.com/posts/ntt-ai-delivery-skills-transfer/)
 <!-- posts:end -->
 
 <picture>
