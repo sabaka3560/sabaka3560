@@ -44,11 +44,11 @@ I build systems in **Go** and **TypeScript**, from high-concurrency APIs to agen
 ### Latest writing
 
 <!-- posts:start -->
-- [The Spreadsheet Still Calculates. Someone Replaced the Formula.](https://blogs.tanmaybohra.com/posts/spreadsheet-override-register/)
-- [Your Renewal Rate Needs Customers Who Actually Had a Choice.](https://blogs.tanmaybohra.com/posts/renewal-eligible-cohort/)
-- [Your Startup's Margin Includes a Founder Who Works for Free.](https://blogs.tanmaybohra.com/posts/founder-labour-replacement-cost/)
-- [Workday Reports Two Operating Margins. Read the Bridge Before Picking One.](https://blogs.tanmaybohra.com/posts/workday-adjusted-margin-bridge/)
-- [NTT DATA Is Building an AI Team. Buyers Should Budget for Learning, Too.](https://blogs.tanmaybohra.com/posts/ntt-ai-delivery-skills-transfer/)
+- [Nobody Clicks the Feature. That Does Not Make It Cheap to Remove.](https://blogs.tanmaybohra.com/posts/feature-retirement-dependency-cost/)
+- [Two Invoice Files Can Be One Bill. One Number Can Be Two Bills.](https://blogs.tanmaybohra.com/posts/invoice-identity-aliases/)
+- [The User Clicked Cancel. Did the Work Actually Stop?](https://blogs.tanmaybohra.com/posts/cancellation-stop-path/)
+- [BICO Wants AI-Ready Instruments. Readiness Needs More Than an API.](https://blogs.tanmaybohra.com/posts/bico-instrument-physical-state/)
+- [Molten Turns Holdings Into Cash. A Partial Exit Answers a Narrow Question.](https://blogs.tanmaybohra.com/posts/molten-partial-exit-valuation-evidence/)
 <!-- posts:end -->
 
 <picture>
